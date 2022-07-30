@@ -11,4 +11,4 @@ def fibo(num):
     return list
   return print('Debe ingresar un argumento mayor a 2')
  
-print(fibo(2))
+print(fibo(4))
